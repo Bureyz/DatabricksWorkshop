@@ -264,8 +264,8 @@ databricks-dea-training-kion/
 - Sequence operations
 
 **02_lakeflow_orchestration_workshop.ipynb** (90 min)
-*Konsoliduje: DLT + Databricks Jobs*
-- Delta Live Tables pipeline creation
+*Konsoliduje: Lakeflow + Databricks Jobs*
+- Lakeflow pipeline creation - example code
 - Expectations setup (warn/drop/fail)
 - Multi-task Databricks Jobs
 - Dependencies i parametryzacja
