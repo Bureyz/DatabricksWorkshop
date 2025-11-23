@@ -37,3 +37,6 @@ ehthumbs.db
 # Databricks specific
 .databricks/
 *.dbc
+
+# Project specific
+utility/
